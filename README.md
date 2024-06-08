@@ -12,3 +12,6 @@ HTML<br>
 CSS<br>
 JavaScript<br>
 API for currency exchange rates
+<br>
+**Demo**<br>
+You can play the demo of this game by clicking <a href="https://tanu-agarwal0101-currency-convertor.netlify.app">here</a>.
